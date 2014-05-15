@@ -5,9 +5,9 @@
 
 Developer     | Order
 --------------|---------------------
-**Daniel T**  | Chicken Noodle Salad
-**Minho**     | Pork Noodle Salad
-**James**     | Vegan Pho, no tofu, side of kimchi
-**Greg**      | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili
-**Austin**    |
-**Jesse**     | 3 chicken rolls - no noodles/substitute jicama, pickled diakon & carrots, pineapple, mango, roasted shallots
+[Daniel](https://github.com/dtartaglia)           | Chicken Noodle Salad
+[Minho](https://github.com/minhochoi)               | Pork Noodle Salad
+[James](https://github.com/jlandrum)                | Vegan Pho, no tofu, side of kimchi
+[Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili
+[Austin](https://github.com/austinmccarthy-haneke)  |
+[Jesse](https://github.com/jessecurry)              | 3 chicken rolls - no noodles/substitute jicama, pickled diakon & carrots, pineapple, mango, roasted shallots
