@@ -9,5 +9,6 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Pork Noodle Salad
 [James](https://github.com/jlandrum)                | Small Beef Pho, Side of BBQ Pork
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili
-[Austin](https://github.com/austinmccarthy-haneke)  | Beef pho, no onions
-[Jesse](https://github.com/jessecurry)              | 3 chicken rolls - no noodles/substitute jicama, pickled diakon & carrots, pineapple, mango, roasted shallots (side of citrus vinagrette)
+[Austin](https://github.com/austinmccarthy-haneke)  | 3 beef rolls - no noodles, pickled diakon and carrots, jalapenos, bean sprouts
+[Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi
+[Jesse](https://github.com/jessecurry)              | 3 pork rolls - no noodles/substitute jicama, pickled diakon & carrots, pineapple, cucumber, red peppers (side of citrus vinagrette)
