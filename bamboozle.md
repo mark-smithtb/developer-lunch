@@ -6,7 +6,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| 1 Beef Banh Mi
+[Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
 [Minho](https://github.com/minhochoi)               | Pork Noodle Salad
 [James](https://github.com/jlandrum)                | Egg Noodle Soup (Special)
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili
