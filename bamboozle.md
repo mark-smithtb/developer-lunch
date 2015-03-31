@@ -12,4 +12,4 @@ Developer     | Order
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili
 [Austin](https://github.com/austinmccarthy-haneke)  | 3 beef rolls - no noodles, pickled diakon and carrots, jalapenos, bean sprouts
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi
-[Jesse](https://github.com/jessecurry)              | Exotic Pineapple Fried Rice with Grilled Pork (special)
+[Jesse](https://github.com/jessecurry)              | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
