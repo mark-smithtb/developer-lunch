@@ -8,8 +8,8 @@ Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
-[James](https://github.com/jlandrum)                | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
-[Greg](https://github.com/greghochsprung)           | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
+[James](https://github.com/jlandrum)                | 
+[Greg](https://github.com/greghochsprung)           | 
 [Austin](https://github.com/austinmccarthy-haneke)  | 3 beef rolls - no noodles, pickled diakon and carrots, jalapenos, bean sprouts
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi
 [Jesse](https://github.com/jessecurry)              | Pork Cafe Salad – pickled diakon and carrots instead of carrots – red pepper, jicama, roasted shallots – with shallot vinaigrette dressing
