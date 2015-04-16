@@ -6,7 +6,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
+[Daniel](https://github.com/dtartaglia)           	| BBQ Pork Banh Mi
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [James](https://github.com/jlandrum)                | 3 Veggie Rolls - No tofu, noodles or mango, otherwise surprise me! Side of citrus vinegarette.
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
