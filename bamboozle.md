@@ -11,5 +11,5 @@ Developer     | Order
 [James](https://github.com/jlandrum)                | Hot Honey Chicken (Special)
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Austin](https://github.com/austinmccarthy-haneke)  | 3 beef rolls - no noodles, pickled diakon and carrots, jalapenos, bean sprouts
-[Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi
+[Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | Pork Cafe Salad – pickled diakon and carrots instead of carrots – red pepper, jicama, roasted shallots – with shallot vinaigrette dressing
