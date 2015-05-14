@@ -6,7 +6,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Kaj]                                               | Beef Bahn Mi
+[Kaj](http://tampaprep.org)                         | Beef Bahn Mi
 [Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
 [Minho](https://github.com/minhochoi)               | Sweet and Spicy Calamari Noodle Salad
 [James](https://github.com/jlandrum)                | Beef Banh Mi served with a spicy mayo
