@@ -6,10 +6,11 @@
 
 Developer     | Order
 --------------|---------------------
+[Kaj]                                               | Beef Bahn Mi
 [Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
 [Minho](https://github.com/minhochoi)               | Sweet and Spicy Calamari Noodle Salad
 [James](https://github.com/jlandrum)                | Beef Banh Mi served with a spicy mayo
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Austin](https://github.com/austinmccarthy-haneke)  | 3 beef rolls - no noodles, pickled diakon and carrots, jalapenos, bean sprouts
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
-[Jesse](https://github.com/jessecurry)              | Beef Pho
+[Jesse](https://github.com/jessecurry)              | 2 pork rolls (jicama in place of noodles), red peppers, pickled daikon & carrots, pineapple, mint and a small chicken & rice soup. Side of citrus vinaigrette.
