@@ -8,7 +8,7 @@ Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Beef Banh Mi served with a spicy mayo
 [Minho](https://github.com/minhochoi)               | Sweet and Spicy Calamari Noodle Salad
-[James](https://github.com/jlandrum)                | Beef Banh Mi served with a spicy mayo
+[James](https://github.com/jlandrum)                | Tropical Chicken Kabobs in a hoisin glaze with red bell, pineapple and red onion
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Austin](https://github.com/austinmccarthy-haneke)  | 3 beef rolls - no noodles, pickled diakon and carrots, jalapenos, bean sprouts
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
