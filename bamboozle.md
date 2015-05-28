@@ -6,8 +6,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Kaj](http://tampaprep.org)                         | Beef Bahn Mi
-[Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
+[Daniel](https://github.com/dtartaglia)           	| Beef Banh Mi served with a spicy mayo
 [Minho](https://github.com/minhochoi)               | Sweet and Spicy Calamari Noodle Salad
 [James](https://github.com/jlandrum)                | Beef Banh Mi served with a spicy mayo
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
