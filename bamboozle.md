@@ -13,4 +13,4 @@ Developer     | Order
 [Austin](https://github.com/austinmccarthy-haneke)  | Beef Cafe Salad - No cucumbers. Pickled diakon and carrots, tangerine, bean sprouts w/ citrus vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | **Small Chicken & Rice Soup** and **2 pork rolls** (jicama in place of noodles), red peppers, pickled daikon & carrots, pineapple, mint. Side of citrus vinaigrette.
-[Kyle] (https://github.com/kjswartz)                | 3 rolls - Ahi Tuna, kick'n chicken, grilled pork. default veggies. 
+[Kyle] (https://github.com/kjswartz)                | 3 rolls - all grilled pork. default veggies. 
