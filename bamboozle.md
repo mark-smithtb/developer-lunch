@@ -8,7 +8,7 @@ Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Beef Banh Mi served with a spicy mayo
 [Minho](https://github.com/minhochoi)               |  1 Pork Banh Mi 
-[James](https://github.com/jlandrum)                | 2 Rolls (Kick'n Chick'n & Veggie (Extra Red Pepper)) (Red Pepper, Cilantro, Mint, Chive) 2x Citrus Vinegarette 
+[James](https://github.com/jlandrum)                | Canh Chua
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Austin](https://github.com/austinmccarthy-haneke)  | Beef Cafe Salad - No cucumbers. Pickled diakon and carrots, tangerine, bean sprouts w/ citrus vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
