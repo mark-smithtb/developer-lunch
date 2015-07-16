@@ -8,10 +8,11 @@ Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Beef Banh Mi served with a spicy mayo
 [Minho](https://github.com/minhochoi)               |  1 Pork Banh Mi 
-[James](https://github.com/jlandrum)                | Pineapple Lychee Curry served with Jasmine Rice
+[James](https://github.com/jlandrum)                | Canh Chua
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Austin](https://github.com/austinmccarthy-haneke)  | Beef Cafe Salad - No cucumbers. Pickled diakon and carrots, tangerine, bean sprouts w/ citrus vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | **Small Chicken & Rice Soup** and **2 pork rolls** (jicama in place of noodles), red peppers, pickled daikon & carrots, pineapple, mint. Side of citrus vinaigrette.
-[Kyle] (https://github.com/kjswartz)                | 3 rolls - all grilled pork. default veggies. 
+[Kyle] (https://github.com/kjswartz)                | 3 rolls - all grilled pork. default veggies. (3x peanut sauces) 
 [Zach] (https://github.com/ZachBurm)                | Nothing
+
