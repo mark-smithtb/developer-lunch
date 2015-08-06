@@ -8,11 +8,10 @@ Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Beef Banh Mi served with a spicy mayo
 [Minho](https://github.com/minhochoi)               |  1 Pork Banh Mi 
-[James](https://github.com/jlandrum)                | Small Beef Pho, No Noodle
+[James](https://github.com/jlandrum)                | Small Veggie Broth with Sprouts only
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Austin](https://github.com/austinmccarthy-haneke)  | Beef Cafe Salad - No cucumbers. Pickled diakon/carrots, tangerine, w/ citrus vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | 3 pork rolls, jicama in place of noodles; pickled diakon & carrots, mandarin oranges, cucumber, and red peppers. (3x citrus vinaigrette)
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. default veggies. (3x peanut sauces) 
-[Zach] (https://github.com/ZachBurm)                | Nothing
 
