@@ -10,7 +10,6 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               |  1 Pork Banh Mi 
 [James](https://github.com/jlandrum)                | BBQ Pork on Rice w/ Shallot Vinegarette
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
-[Austin](https://github.com/austinmccarthy-haneke)  | Beef Banh Mi, no cucumbers
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | Chicken Cafe Salad (pickled daikon & carrots instead of carrots), red pepper, jicama, and mandarin oranges – shallot vinaigrette dressing.
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. default veggies. (3x peanut sauces) 
