@@ -8,7 +8,7 @@ Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Beef Banh Mi served with a spicy mayo
 [Minho](https://github.com/minhochoi)               |  1 Pork Banh Mi 
-[James](https://github.com/jlandrum)                | Wonton Tacos
+[James](https://github.com/jlandrum)                | Mi – Egg Noodle Soup
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | Chicken Cafe Salad (pickled daikon & carrots instead of carrots), red pepper, jicama, and mandarin oranges – shallot vinaigrette dressing.
