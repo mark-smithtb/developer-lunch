@@ -10,6 +10,6 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 1 Pork Banh Mi 
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
-[Jesse](https://github.com/jessecurry)              | Bamboozle Lo Mein (Chicken with a side of Sriracha)
+[Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. lettuce, carrots, mango. (3x peanut sauces) 
 
