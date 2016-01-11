@@ -12,4 +12,4 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | Shredded Beef sautéed
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. lettuce, carrots, mango. (3x peanut sauces) 
-
+[John] (https://github.com/jholsapple)              | 1 Traditional w/Chicken Pate Banh Mi
