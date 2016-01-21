@@ -12,4 +12,4 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (No Jalapeño)
 [Jesse](https://github.com/jessecurry)              | 3 pork rolls – jicama instead of noodles. cucumber, red peppers, pineapple, roasted shallots – sides of soy vinaigrette
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. lettuce, carrots, mango. (3x peanut sauces) 
-[John] (https://github.com/jholsapple)              | 1 Traditional w/Chicken Pate Banh Mi
+[John] (https://github.com/jholsapple)              | 3 rolls - 3 chicken. lettuce, carrots, mango, and cucumber. Side of zesty
