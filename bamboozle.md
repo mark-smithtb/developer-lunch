@@ -14,3 +14,4 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. lettuce, carrots, mango. (3x peanut sauces) 
 [John] (https://github.com/jholsapple)              | 3 rolls - 3 chicken. lettuce, carrots, mango, and cucumber. Side of zesty
 [Mark] (http://github.com/mark-smithtb)             | 1 Beef Banh Mi 
+[Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
