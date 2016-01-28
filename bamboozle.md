@@ -13,5 +13,5 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 3 pork rolls – jicama instead of noodles. cucumber, red peppers, pineapple, roasted shallots – sides of soy vinaigrette
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. lettuce, carrots, mango. (3x peanut sauces) 
 [John] (https://github.com/jholsapple)              | 3 rolls - 3 chicken. lettuce, carrots, mango, and cucumber. Side of zesty
-[Mark] (http://github.com/mark-smithtb)             | 1 Beef Banh Mi 
+[Mark] (http://github.com/mark-smithtb)             | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, mango, peanut sauce. 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
