@@ -11,7 +11,7 @@ Developer     | Order
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (Extra Jalapeño)
 [Jesse](https://github.com/jessecurry)              | Pumpkin Soup
-[Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. lettuce, carrots, mango. (3x peanut sauces) 
+[Kyle] (https://github.com/kjswartz)                | 1 Beef Banh Mi w/ spicy mayo
 [John] (https://github.com/jholsapple)              | 3 rolls - 2 Kickin' Chicken, 1 Ahi Tuna. Lettuce, Carrots, and Cucumber.
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, mango, peanut sauce. 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
