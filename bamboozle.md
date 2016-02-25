@@ -12,6 +12,6 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Red Curry (chicken)
 [Kyle] (https://github.com/kjswartz)                | 1 Beef Banh Mi w/ spicy mayo
-[John] (https://github.com/jholsapple)              | Chili Garlic Chicken
+[John] (https://github.com/jholsapple)              | 3 Rolls - 3 Kicken Chicken. Lettuce, cucumber, carrots. Side of Zesty
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, mango, peanut sauce. 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
