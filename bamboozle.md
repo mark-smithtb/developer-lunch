@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 1 Pork Banh Mi 
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Red Curry (chicken)
+[Jesse](https://github.com/jessecurry)              | St Patty's Green Curry (chicken)
 [Kyle] (https://github.com/kjswartz)                | 1 Beef Banh Mi w/ spicy mayo
 [John] (https://github.com/jholsapple)              | Chicken Pho
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, mango, peanut sauce. 
