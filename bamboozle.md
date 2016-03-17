@@ -13,5 +13,5 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | St Patty's Green Curry (chicken)
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - All pork. lettuce, carrots, and mango. 3x peanut sauces
 [John] (https://github.com/jholsapple)              | Chicken Pho
-[Mark] (http://github.com/mark-smithtb)             | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, mango, peanut sauce. 
+[Mark] (http://github.com/mark-smithtb)             | Red Curry(chicken)
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
