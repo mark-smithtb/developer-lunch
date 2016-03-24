@@ -13,5 +13,5 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | St Patty's Green Curry (chicken)
 [Kyle] (https://github.com/kjswartz)                | 1 Beef Banh Mi w/ spicy mayo
 [John] (https://github.com/jholsapple)              | 3 Rolls - 2 Kickin Chicken, 1 pork. Lettuce, cucumber, carrots. side of zesty
-[Mark] (http://github.com/mark-smithtb)             | Red Curry(chicken)
+[Mark] (http://github.com/mark-smithtb)             | 3 Rolls - 2 Kickin Chicken, 1 pork. lettuce, cucumber, carrots, and mango. side of peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
