@@ -13,5 +13,5 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 
 [Kyle] (https://github.com/kjswartz)                | 1 Beef Banh Mi w/ spicy mayo
 [John] (https://github.com/jholsapple)              | 3 Rolls - Pork. Lettuce, cucumber, carrots. Side of zesty
-[Mark] (http://github.com/mark-smithtb)             | 
+[Mark] (http://github.com/mark-smithtb)             | 3 Rolls - 2 Kickin' Chicken, 1 Pork. Lettuce, Cucumber, Carrots, Peanut Sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
