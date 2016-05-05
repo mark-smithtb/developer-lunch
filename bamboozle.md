@@ -11,6 +11,6 @@ Developer     | Order
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | 2 rolls - grilled pork, jicama instead of noodles – cucumber, red peppers, pineapple, roasted shallots; small chicken & rice soup.
-[Kyle] (https://github.com/kjswartz)                | Chicken Pho
+[Kyle] (https://github.com/kjswartz)                | Beef Pho
 [Mark] (http://github.com/mark-smithtb)             | Beef Pho 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
