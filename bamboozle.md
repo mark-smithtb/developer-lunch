@@ -12,7 +12,6 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Fried rice
 [Kyle] (https://github.com/kjswartz)                | Beef Pho
-[Mark] (http://github.com/mark-smithtb)             | Beef Pho 
+[Mark] (http://github.com/mark-smithtb)             | 3 rolls - 3 spicy chicken lettuce, cucumber, carrots, and mango. peanut sauce.
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
 [LaMarre] (https://github.com/dlamarre)             | Fried rice
-[Young Adam] (https://github.com/ahaubenstock)      | Fried rice
