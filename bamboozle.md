@@ -15,4 +15,4 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | Beef Pho 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
 [LaMarre] (https://github.com/dlamarre)             | Fried rice
-[Young Adam] (https://github.com/ahaubenstock)      | Fried rice
+[Young Adam] (https://github.com/ahaubenstock)      | 2 rolls - grilled chicken, jicama instead of noodles – cucumber, red peppers, pineapple, roasted shallots; small chicken & rice soup
