@@ -8,7 +8,7 @@ Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| 1 Beef Banh Mi w/ spicy mayo
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 pork (all vegi). Side of onion-soysauce
-[Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of zesty chili sauce
+[Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Fried rice
 [Kyle] (https://github.com/kjswartz)                | Beef Pho
