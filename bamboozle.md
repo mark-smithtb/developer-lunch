@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 pork (all vegi). Side of onion-soysauce
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 pork. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Shirataki Noodle with Chicken
+[Jesse](https://github.com/jessecurry)              | Kaffir Beef served with Jasmine rice
 [Kyle] (https://github.com/kjswartz)                | Beef Pho
 [Mark] (http://github.com/mark-smithtb)             | Beef Pho 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
