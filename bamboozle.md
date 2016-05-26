@@ -11,6 +11,6 @@ Developer     | Order
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 kick'n chicken. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Kaffir Beef served with Jasmine rice
-[Kyle] (https://github.com/kjswartz)                | Beef Pho
+[Kyle] (https://github.com/kjswartz)                | Chicken Pho
 [Mark] (http://github.com/mark-smithtb)             | Beef Pho 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
