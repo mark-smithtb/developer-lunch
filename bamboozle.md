@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 pork (all vegi). Side of onion-soysauce
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 kick'n chicken. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Chicken Cafe Salad (pickled daikon & carrots instead of carrots), red pepper, jicama, and mandarin oranges – shallot vinaigrette dressing.
+[Jesse](https://github.com/jessecurry)              | 3 grilled pork rolls jicama instead of noodles; pickled daikon & carrots, red peppers, jicama, and mandarin oranges – 3 sides of citrus vinaigrette
 [Kyle] (https://github.com/kjswartz)                | Mi – Egg Noodle Soup in a pork bouillon
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - 3 kick'n chicken. lettuce, cucumber, carrots, and mango. peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - 3 chicken. lettuce, carrots, mango, peanut sauce
