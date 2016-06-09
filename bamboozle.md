@@ -6,7 +6,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
+[Daniel](https://github.com/dtartaglia)           	| 1 Beef Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 pork (all vegi). Side of onion-soysauce
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 kick'n chicken. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
