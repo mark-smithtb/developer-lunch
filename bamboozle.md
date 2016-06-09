@@ -11,7 +11,7 @@ Developer     | Order
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 kick'n chicken. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | 3 grilled pork rolls jicama instead of noodles; pickled daikon & carrots, red peppers, jicama, and mandarin oranges – 3 sides of citrus vinaigrette
-[Kyle] (https://github.com/kjswartz)                | Mi – Egg Noodle Soup in a pork bouillon
+[Kyle] (https://github.com/kjswartz)                | Beef pho
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - 3 kick'n chicken. lettuce, cucumber, carrots, and mango. peanut sauce
 [Chris] (https://github.com/stomp1128)              | 
 [Austin C] (https://github.com/saleac)              | Chicken Pho
