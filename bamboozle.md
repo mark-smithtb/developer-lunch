@@ -11,7 +11,7 @@ Developer     | Order
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 kick'n chicken. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | 3 grilled pork rolls jicama instead of noodles; pickled daikon & carrots, red peppers, cucumber, and roasted shallots – 3 sides of citrus vinaigrette
-[Kyle] (https://github.com/kjswartz)                | Ginger Sesame Shirataki Noodle with 10 calorie per serving Shirataki wonder noodles, tossed in a ginger sesame soy dressing with sautéed red bell, snow peas and red onion
+[Kyle] (https://github.com/kjswartz)                | Bamboozle Fried Brown Rice w/ combination grilled chicken, pork and beef with red bell peppers, onions & bean sprouts
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - 3 kick'n chicken. lettuce, cucumber, carrots, and mango. peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken, lettuce, carrots, mango, citrus vinaigrette
 [Austin C] (https://github.com/saleac)              | Chicken Pho
