@@ -14,4 +14,4 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | Bamboozle Fried Brown Rice w/ combination grilled chicken, pork and beef with red bell peppers, onions & bean sprouts
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - 3 kick'n chicken. lettuce, cucumber, carrots, and mango. peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken, lettuce, carrots, mango, citrus vinaigrette
-[Austin C] (https://github.com/saleac)              | Chicken Pho
+[Austin C] (https://github.com/saleac)              | 
