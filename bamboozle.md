@@ -14,4 +14,4 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | Wonton Soup
 [Mark] (http://github.com/mark-smithtb)             | Wonton Soup
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
-[Austin C] (https://github.com/saleac)              | 
+[Austin C] (https://github.com/saleac)              | Beef Pho (No Sprouts)
