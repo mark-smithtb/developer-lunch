@@ -11,7 +11,7 @@ Developer     | Order
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 kick'n chicken. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Wonton Soup
-[Kyle] (https://github.com/kjswartz)                | Wonton Soup
+[Kyle] (https://github.com/kjswartz)                | 3 rolls - All Pork, carrots, mango, lettuce, 3x peanut sauce
 [Mark] (http://github.com/mark-smithtb)             | Wonton Soup
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Austin C] (https://github.com/saleac)              | Beef Pho (No Sprouts)
