@@ -13,3 +13,4 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 3 pork rolls – jicama instead of noodles. cucumber, red peppers, pineapple, roasted shallots – sides of soy vinaigrette
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - all pork. lettuce, carrots, mango. (3x peanut sauces) 
 [John] (https://github.com/jholsapple)              | 1 Traditional w/Chicken Pate Banh Mi
+[Mark] (https://github.com/mark-smithtb)            | Papaya Salad w/Crispy Duck tossed with red bell peppers, cilantro, roasted shallots and peanuts (gf)
